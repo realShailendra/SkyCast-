@@ -32,15 +32,15 @@ Follow these steps to set up the project locally:
    cd SkyCast
 
 2. Install dependencies:
-
-  npm install
+    ```bash
+    npm install
 
 3. Add your API key:
-    
+     ```bash
    REACT_APP_WEATHER_API_KEY=your_api_key_here
 
 4. Start the app:
-
+      ```bash
    npm start
 
 The app will run at http://localhost:3000.
