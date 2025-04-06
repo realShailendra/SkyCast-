@@ -15,8 +15,8 @@ A sleek and simple weather application built using **React.js** that allows user
 ## 🛠️ Built With
 
 - React.js
-- OpenWeatherMap API (or any other weather API you used)
-- CSS / Tailwind / Bootstrap (whichever applies)
+- OpenWeatherMap API 
+- CSS / Tailwind 
 
 ---
 
