@@ -2,6 +2,7 @@
 
 A sleek and simple weather application built using **React.js** that allows users to get real-time weather updates for any city worldwide.
 
+![weatherapper](https://github.com/user-attachments/assets/17a817a7-a3fd-403e-826b-d6d40863df10)
 
 
 ## 🚀 Features
