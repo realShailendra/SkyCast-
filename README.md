@@ -1,4 +1,4 @@
-# 🌤️ React Weather App
+# 🌤️ SkyCast - React Weather App
 
 A sleek and simple weather application built using **React.js** that allows users to get real-time weather updates for any city worldwide.
 
